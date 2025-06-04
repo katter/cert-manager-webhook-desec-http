@@ -5,7 +5,7 @@ go 1.23.0
 require (
 	github.com/cert-manager/cert-manager v1.13.0
 	github.com/go-logr/zapr v1.2.4
-	github.com/hashicorp/go-retryablehttp v0.7.4
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	go.uber.org/zap v1.26.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/apiextensions-apiserver v0.28.2
