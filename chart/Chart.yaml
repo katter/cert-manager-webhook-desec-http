@@ -3,14 +3,14 @@ type: application
 name: cert-manager-webhook-desec-http
 description: Allow cert-manager to solve DNS challenges using deSEC's public API and HTTP requests
 
-version: 0.0.0-template
-appVersion: 0.0.0-template
+version: 0.5.0
+appVersion: 0.5.0
 
 icon: https://desec.io/favicon.svg
-home: https://ghcr.io/irreleph4nt/charts
+home: https://ghcr.io/katter/charts
 
 sources:
-- https://github.com/irreleph4nt/cert-manager-webhook-desec-http
+- https://github.com/katter/cert-manager-webhook-desec-http
 
 keywords:
 - cert-manager
@@ -21,4 +21,4 @@ keywords:
 - api
 
 maintainers:
-- name: irreleph4nt
+- name: katter
