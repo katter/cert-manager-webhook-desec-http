@@ -1,0 +1,52 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-desec-http:
+  - apiVersion: v2
+    appVersion: 0.5.0
+    created: "2025-06-04T14:13:07.091573995+02:00"
+    description: Allow cert-manager to solve DNS challenges using deSEC's public API
+      and HTTP requests
+    digest: 3978aa80ec8c759c645ed461adb4ee5aa6c9e025d7e5e8f1fc6d2dc2bd9933d7
+    home: https://ghcr.io/katter/charts
+    icon: https://desec.io/favicon.svg
+    keywords:
+    - cert-manager
+    - desec
+    - webhook
+    - tls
+    - dns
+    - api
+    maintainers:
+    - name: katter
+    name: cert-manager-webhook-desec-http
+    sources:
+    - https://github.com/katter/cert-manager-webhook-desec-http
+    type: application
+    urls:
+    - cert-manager-webhook-desec-http-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 0.0.0-template
+    created: "2025-06-04T14:13:06.847951418+02:00"
+    description: Allow cert-manager to solve DNS challenges using deSEC's public API
+      and HTTP requests
+    digest: ed1ab0895f18df6ef1cd455cf11e99926582d401045b3a23ef597f79650cc6bf
+    home: https://ghcr.io/irreleph4nt/charts
+    icon: https://desec.io/favicon.svg
+    keywords:
+    - cert-manager
+    - desec
+    - webhook
+    - tls
+    - dns
+    - api
+    maintainers:
+    - name: irreleph4nt
+    name: cert-manager-webhook-desec-http
+    sources:
+    - https://github.com/irreleph4nt/cert-manager-webhook-desec-http
+    type: application
+    urls:
+    - cert-manager-webhook-desec-http-0.0.0-template.tgz
+    version: 0.0.0-template
+generated: "2025-06-04T14:13:07.091579826+02:00"
