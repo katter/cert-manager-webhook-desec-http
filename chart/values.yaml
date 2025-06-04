@@ -13,7 +13,7 @@ certManager:
   namespace: cert-manager
 
 image:
-  repository: ghcr.io/irreleph4nt/cert-manager-webhook-desec-http
+  repository: ghcr.io/katter/cert-manager-webhook-desec-http
   tag: ""
   pullPolicy: IfNotPresent
 
