@@ -1,4 +1,4 @@
-module github.com/irreleph4nt/cert-manager-webhook-desec-http
+module github.com/katter/cert-manager-webhook-desec-http
 
 go 1.24.0
 
